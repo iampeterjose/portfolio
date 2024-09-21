@@ -31,7 +31,7 @@ const Approach = () => {
                 [236, 72, 153],
                 [232, 121, 249],
             ]}
-            dotSize={2} />
+            dotSize={3} />
         </Card>
         <Card 
             title="Development & Launch" 
@@ -78,7 +78,7 @@ const Card = ({
             </AnimatePresence>
             <div className="relative z-20">
                 <div
-                className="text-center group-hover/canvas-card:-translate-y-4 absolute top-[49%] left-[50%] translate-x-[-50%] translate-y-[-50%] group-hover/canvas-card:opacity-0 transition duration-200 w-full mx-auto flex items-center justify-center">
+                className="text-center group-hover/canvas-card:-translate-y-4 absolute top-[48%] left-[50%] translate-x-[-50%] translate-y-[-50%] group-hover/canvas-card:opacity-0 transition duration-200 w-full mx-auto flex items-center justify-center">
                 {icon}
                 </div>
                 <h2

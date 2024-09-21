@@ -65,7 +65,7 @@ export const navItems = [
       des: "Discover the rich and aromatic world of coffee with TestApp, your ultimate destination for premium blends and expertly crafted brews.",
       img: "/coffeeapp.png",
       iconLists: ["/next.svg", "/tail.svg", "mongo.svg"],
-      link: "https://testing-lac-eta.vercel.app/",
+      link: "https://mycoffee-project.vercel.app/",
     },
   ];
   
@@ -107,13 +107,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/iampeterjose",
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/fb.svg",
+      link: "https://facebook.com/aah.okay/",
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/peter-ellias-jose-187354168/",
     },
   ];
