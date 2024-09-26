@@ -67,6 +67,14 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "mongo.svg"],
       link: "https://mycoffee-project.vercel.app/",
     },
+    {
+      id: 2,
+      title: "A Task Organizer",
+      des: "Organize your tasks effortlessly with our intuitive to-do list app. Stay focused, prioritize your goals, and boost your productivity.",
+      img: "/task.png",
+      iconLists: ["/vite.svg", "/re.svg", "tail.svg"],
+      link: "https://todolist-simplev.vercel.app/",
+    },
   ];
   
   
