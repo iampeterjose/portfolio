@@ -75,6 +75,14 @@ export const navItems = [
       iconLists: ["/vite.svg", "/re.svg", "tail.svg"],
       link: "https://todolist-simplev.vercel.app/",
     },
+    {
+      id: 3,
+      title: "MyStore - eCommerce",
+      des: "Enjoy fast delivery on a wide range of products, including beauty, furniture, electronics, groceries, home decor, and fashion—shop now.",
+      img: "/mystore.png",
+      iconLists: ["/next.svg", "/re.svg", "tail.svg", "fm.svg"],
+      link: "https://mystore-ecommercev2.vercel.app/",
+    },
   ];
   
   
