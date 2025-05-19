@@ -69,10 +69,10 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "A Task Organizer",
-      des: "Organize your tasks effortlessly with our intuitive to-do list app. Stay focused, prioritize your goals, and boost your productivity.",
-      img: "/task.png",
-      iconLists: ["/vite.svg", "/re.svg", "tail.svg"],
+      title: "Workout Buddy",
+      des: "Organize your workouts effortlessly. Stay focused, prioritize your goals, and boost your productivity.",
+      img: "/workoutbuddy.png",
+      iconLists: ["/vite.svg", "/re.svg", "tail.svg","/mongo.svg", "/express.svg"],
       link: "https://todolist-simplev.vercel.app/",
     },
     {
@@ -80,7 +80,7 @@ export const navItems = [
       title: "MyStore - eCommerce",
       des: "Enjoy fast delivery on a wide range of products, including beauty, furniture, electronics, groceries, home decor, and fashion—shop now.",
       img: "/mystore.png",
-      iconLists: ["/next.svg", "/re.svg", "tail.svg", "fm.svg"],
+      iconLists: ["/next.svg", "/re.svg", "tail.svg", "fm.svg", "/mongo.svg"],
       link: "https://mystore-ecommercev2.vercel.app/",
     },
   ];
