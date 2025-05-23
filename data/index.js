@@ -83,6 +83,13 @@ export const navItems = [
       iconLists: ["/next.svg", "/re.svg", "tail.svg", "fm.svg", "/mongo.svg"],
       link: "https://mystore-ecommercev2.vercel.app/",
     },
+    {
+      id: 4,
+      title: "RecipeFinder",
+      des: "Discover Delicious Recipes for Every Taste",
+      iconLists: ["/re.svg", "/tail.svg", "vite.svg"],
+      link: "https://recipefinder-umber.vercel.app/",
+    },
   ];
   
   
