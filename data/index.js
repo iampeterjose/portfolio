@@ -87,6 +87,7 @@ export const navItems = [
       id: 4,
       title: "RecipeFinder",
       des: "Discover Delicious Recipes for Every Taste",
+      img: "/recipefinder.png",
       iconLists: ["/re.svg", "/tail.svg", "vite.svg"],
       link: "https://recipefinder-umber.vercel.app/",
     },
